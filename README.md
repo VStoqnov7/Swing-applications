@@ -1,2 +1,2 @@
-# swing-applications
-swing-programs
+# Swing-applications
+Swing-applications
